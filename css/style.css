@@ -3373,6 +3373,14 @@ input[type="button"].btn-block {
     pointer-events: none;
     cursor: default; }
 
+    .logo {
+      display: inline-block;
+      vertical-align: top;
+      width: auto;
+      height: 80px;
+      margin-right: 20px;    /* if you want it vertically middle of the navbar. */
+  }
+
 .nav-tabs {
   border-bottom: 1px solid #dee2e6; }
   .nav-tabs .nav-item {
